@@ -1,3 +1,3 @@
 # email-client-for-visually-impaired
 
-## Run the program.py
+- Run the program.py in sitepackages
